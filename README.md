@@ -1,55 +1,55 @@
-# 🌍 WorldGuide — Travel Planning App (UI/UX Prototype)
+# 🌍 WorldGuide — Aplicativo de Planejamento de Viagens (Protótipo UI/UX)
 
-**WorldGuide** is a conceptual travel app designed and prototyped using [Figma](https://www.figma.com/). 
-The project was developed as a final assignment for the disciplines of Software Prototyping, 
-Software Development Methodology, and UX/UI Design at Universidade de Sorocaba (2025).
+**WorldGuide** é um aplicativo conceitual de viagens, idealizado e prototipado no [Figma](https://www.figma.com/).  
+O projeto foi desenvolvido como trabalho final das disciplinas de Prototipagem de Software,  
+Metodologia de Desenvolvimento de Software e UX/UI Design na Universidade de Sorocaba (2025).
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-To design an intuitive, intelligent, and user-centered travel planning app interface, 
-with support for interactive maps, AI recommendations, and favorites organization.
+Projetar uma interface de aplicativo de planejamento de viagens **intuitiva, inteligente e centrada no usuário**,  
+com suporte para mapas interativos, recomendações por IA e organização de favoritos.
 
-## 🧩 Features
+## 🧩 Funcionalidades
 
-- Search for travel destinations and hotels
-- Interactive map with points of interest
-- AI-generated travel suggestions (destinations, hotels, itineraries)
-- Manual or AI-assisted travel itinerary creation
-- Favorites system with folder and search support
-- Filters for hotel search results
-- Responsive and accessible UI (Material Design 3)
+- Pesquisa de destinos de viagem e hotéis  
+- Mapa interativo com pontos de interesse  
+- Sugestões de viagem geradas por IA (destinos, hotéis, roteiros)  
+- Criação de roteiros manual ou assistida por IA  
+- Sistema de favoritos com suporte a pastas e pesquisa  
+- Filtros para resultados de busca de hotéis  
+- UI responsiva e acessível (Material Design 3)  
 
-## 👤 Target Audience
+## 👤 Público-Alvo
 
-People with an interest in traveling to different cities, states, or countries. 
-No in-app purchases are planned, but the main users are expected to be individuals with disposable income to travel.
+Pessoas interessadas em viajar para diferentes cidades, estados ou países.  
+Não há planos para compras no aplicativo, mas o público principal esperado são indivíduos com renda disponível para viagens.  
 
-## ⚙️ Technologies and Tools
+## ⚙️ Tecnologias e Ferramentas
 
-- **Figma** for UI/UX prototyping
-- **Material Design 3** for component and layout standardization
-- **Flaticon** for icon assets
+- **Figma** para prototipagem UI/UX  
+- **Material Design 3** para padronização de componentes e layout  
+- **Flaticon** para recursos de ícones  
 
-## 🧪 Design Process
+## 🧪 Processo de Design
 
-- **Brainstorming** for ideation and scope definition
-- **Medium-fidelity wireframes** using Material Design 3
-- **High-fidelity prototype** optimized for iPhone 13 Mini
-- **UX principles applied**: visibility, feedback, consistency, intuitive mapping, and constraints
+- **Brainstorming** para ideação e definição de escopo  
+- **Wireframes de média fidelidade** utilizando Material Design 3  
+- **Protótipo de alta fidelidade** otimizado para iPhone 13 Mini  
+- **Princípios de UX aplicados**: visibilidade, feedback, consistência, mapeamento intuitivo e restrições  
 
-## 🖼️ Previews
+## 🖼️ Pré-visualizações
 
-**High-Fidelity Prototype (Interactive)**  
-👉 [Click to view on Figma](https://www.figma.com/proto/fNCCDQMzDDeYtYNp1P3tyn/Prot%C3%B3tipo-Final?node-id=0-1&t=2L5sXuAQHg1RBG39-1)
+**Protótipo de Alta Fidelidade (Interativo)**  
+👉 [Clique para visualizar no Figma](https://www.figma.com/proto/fNCCDQMzDDeYtYNp1P3tyn/Prot%C3%B3tipo-Final?node-id=0-1&t=2L5sXuAQHg1RBG39-1)
 
-**Use Case Diagram**  
-👉 [View on Figma](https://www.figma.com/board/h9IctCaBKE0CDcAMEbe2Ru/Diagrama-de-casos-de-uso?node-id=0-1)
+**Diagrama de Casos de Uso**  
+👉 [Visualizar no Figma](https://www.figma.com/board/h9IctCaBKE0CDcAMEbe2Ru/Diagrama-de-casos-de-uso?node-id=0-1)
 
-**Stakeholder Map**  
-👉 [View on Figma](https://www.figma.com/board/DKG5xt7QZeftpCRPPZAMxG/Mapa-Stakeholders---WorldGuide?node-id=0-1)
+**Mapa de Stakeholders**  
+👉 [Visualizar no Figma](https://www.figma.com/board/DKG5xt7QZeftpCRPPZAMxG/Mapa-Stakeholders---WorldGuide?node-id=0-1)
 
-## 📌 Limitations
+## 📌 Limitações
 
-- No backend or frontend implementation
-- Conceptual prototype only
-- Built for academic purposes and interface design evaluation
+- Sem implementação de backend ou frontend  
+- Apenas protótipo conceitual  
+- Criado para fins acadêmicos e avaliação de design de interface  
